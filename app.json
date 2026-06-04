@@ -1,0 +1,13 @@
+{
+  "name": "CareerSathi AI",
+  "description": "AI-powered career counseling platform for rural youth built using IBM watsonx Orchestrate, IBM watsonx.ai, LangFlow and Granite Models.",
+  "version": "1.0.0",
+  "technologies": [
+    "IBM watsonx Orchestrate",
+    "IBM watsonx.ai",
+    "Knowledge Base",
+    "RAG",
+    "ChromaDB",
+    "Vercel"
+  ]
+}
