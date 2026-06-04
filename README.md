@@ -15,7 +15,7 @@ AI Career Counselor for Rural Youth
 - RAG
 - Chroma DB
 - Granite / Llama Models
-- Netlify
+- Vercel
 - HTML, CSS, JavaScript
 
 ## Features
